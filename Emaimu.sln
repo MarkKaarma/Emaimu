@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emaimu.Android", "Emaimu.Android\Emaimu.Android.csproj", "{634C36EC-5370-4B93-B958-1655C3535656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emaimu", "Emaimu\Emaimu.csproj", "{B117CB06-FB2D-48AC-8D79-0633B47A44D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{634C36EC-5370-4B93-B958-1655C3535656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634C36EC-5370-4B93-B958-1655C3535656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{634C36EC-5370-4B93-B958-1655C3535656}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{634C36EC-5370-4B93-B958-1655C3535656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634C36EC-5370-4B93-B958-1655C3535656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{634C36EC-5370-4B93-B958-1655C3535656}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B117CB06-FB2D-48AC-8D79-0633B47A44D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B117CB06-FB2D-48AC-8D79-0633B47A44D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B117CB06-FB2D-48AC-8D79-0633B47A44D8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B117CB06-FB2D-48AC-8D79-0633B47A44D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B117CB06-FB2D-48AC-8D79-0633B47A44D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B117CB06-FB2D-48AC-8D79-0633B47A44D8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {005DFFA2-AB30-446D-AAD3-0A1449FFB82F}
+	EndGlobalSection
+EndGlobal
